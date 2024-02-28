@@ -2,7 +2,7 @@
 
 
 ## Login 
-- Teacher - username :Teacher1@gmail.com, password:Teacher1
+- Teacher  Email :Teacher1@gmail.com, password:Teacher1
 
   
  
